@@ -1,11 +1,11 @@
-main
+
 Hello, world!
 Michael Haluska - Information Technology
 
-Hello, world! My name is Yaman and I am an IT major.
+My name is Yaman and I am an IT major.
 
-new-branch
-Hello, world! My name is Dio and I am a world-dominator major
+My name is Ash and I am also an IT major.
 
-main
-main
+My name is Dio and I am a world-dominator major
+
+
